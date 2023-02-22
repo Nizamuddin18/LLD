@@ -2,11 +2,17 @@
 
 This project contains multiple Design Patterns and LLD codes for system design interviews. <br/>
 Please raise issues and pull requests for fixes and updates.
+* **Creational Design Pattern**
+  1. Factory Design Pattern
+  2. Builder Design Pattern
+  3. Singleton Design Pattern
+  4. Abstract Factory Design Pattern
 
-1. Factory Design Pattern
-2. Builder Design Pattern
-3. Singleton Design Pattern
-4. Abstract Factory Design Pattern
+
+* **Structural Design Pattern**
+    1. Adapter Design Pattern
+    2. Facade Design Pattern
+    3. Decorator Design Pattern
 
 The following resources are useful for learning low level design.
 
