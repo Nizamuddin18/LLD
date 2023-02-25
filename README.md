@@ -4,7 +4,7 @@ This project contains multiple Design Patterns and LLD codes for system design i
 Please raise issues and pull requests for fixes and updates.
 * **Creational Design Pattern**
   1. Factory Design Pattern ✅
-  2. Builder Design Pattern ✅
+  2. Builder Design Pattern ✅ [Notes](https://docs.google.com/document/d/12dBPQKuQ_ZhvwHA9kIA47zZephF5H_o2LCX3ZqnB07I/edit?usp=sharing)
   3. Singleton Design Pattern 
   4. Abstract Factory Design Pattern
 
@@ -12,7 +12,7 @@ Please raise issues and pull requests for fixes and updates.
 * **Structural Design Pattern**
     1. Adapter Design Pattern ✅
     2. Facade Design Pattern 
-    3. Decorator Design Pattern ✅
+    3. Decorator Design Pattern ✅ [Notes](https://docs.google.com/document/d/1rIHt-zl_JyhkdI3VZuuD06-z81KkBRX3LsZNASxHnZU/edit?usp=sharing)
 
 The following resources are useful for learning low level design.
 
