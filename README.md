@@ -10,7 +10,7 @@ Please raise issues and pull requests for fixes and updates.
 
 
 * **Structural Design Pattern**
-    1. Adapter Design Pattern ✅
+    1. Adapter Design Pattern ✅ [Notes](https://docs.google.com/document/d/1nZKcD0ocuLlA18kKKPf6cwAfK6GT7p24nAE-VVFuuDk/edit#heading=h.kk1966kbedef)
     2. Facade Design Pattern 
     3. Decorator Design Pattern ✅ [Notes](https://docs.google.com/document/d/1rIHt-zl_JyhkdI3VZuuD06-z81KkBRX3LsZNASxHnZU/edit?usp=sharing)
 

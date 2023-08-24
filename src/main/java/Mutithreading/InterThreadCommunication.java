@@ -3,7 +3,7 @@ package Mutithreading;
 public class InterThreadCommunication {
 
     public static class ThreadA implements Runnable {
-        int total;
+        int total = 0;
 
         @Override
         public void run() {
@@ -12,6 +12,8 @@ public class InterThreadCommunication {
                 for (int i = 0; i < 100; i++) {
                     total += i;
                 }
+                System.out.println("Child Thread execution has been completed.. " + Thread.currentThread().getName());
+                this.notify();
             }
         }
     }
@@ -21,6 +23,9 @@ public class InterThreadCommunication {
         Thread thread = new Thread(runnable, "Thread-A");
         thread.start();
         System.out.println("Main Thread has started running.. " + Thread.currentThread().getName());
-        System.out.println("Total = " + runnable.total);
+        synchronized (thread) {
+            thread.wait();
+            System.out.println("Total = " + runnable.total);
+        }
     }
 }
