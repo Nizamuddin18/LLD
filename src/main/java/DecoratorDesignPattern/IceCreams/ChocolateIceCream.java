@@ -1,6 +1,8 @@
-package DecoratorDesignPattern;
+package DecoratorDesignPattern.IceCreams;
 
-public class ChocolateIceCream implements IceCream{
+import DecoratorDesignPattern.IceCream;
+
+public class ChocolateIceCream implements IceCream {
     @Override
     public String getDescription() {
         return "ChocolateIceCream";

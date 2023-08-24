@@ -1,5 +1,6 @@
-package DecoratorDesignPattern;
+package DecoratorDesignPattern.Decorator;
 
+import DecoratorDesignPattern.IceCream;
 import lombok.NoArgsConstructor;
 
 //abstract decorator class

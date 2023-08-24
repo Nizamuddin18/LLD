@@ -1,5 +1,9 @@
 package DecoratorDesignPattern;
 
+import DecoratorDesignPattern.Decorator.ChocoChipsDecorator;
+import DecoratorDesignPattern.Decorator.ChocolateSyrupDecorator;
+import DecoratorDesignPattern.IceCreams.ChocolateIceCream;
+
 public class DriverClass {
 
 
