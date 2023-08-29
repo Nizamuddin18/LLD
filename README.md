@@ -10,9 +10,10 @@ Please raise issues and pull requests for fixes and updates.
 
 
 * **Structural Design Pattern**
-    1. Adapter Design Pattern ✅ [Notes](https://docs.google.com/document/d/1nZKcD0ocuLlA18kKKPf6cwAfK6GT7p24nAE-VVFuuDk/edit#heading=h.kk1966kbedef)
-    2. Facade Design Pattern 
-    3. Decorator Design Pattern ✅ [Notes](https://docs.google.com/document/d/1rIHt-zl_JyhkdI3VZuuD06-z81KkBRX3LsZNASxHnZU/edit?usp=sharing)
+    1.  ✅ Adapter Design Pattern   &nbsp; &nbsp; &nbsp; [Notes](https://docs.google.com/document/d/1nZKcD0ocuLlA18kKKPf6cwAfK6GT7p24nAE-VVFuuDk/edit#heading=h.kk1966kbedef) &nbsp; [Code](https://github.com/Nizamuddin18/LLD/tree/master/src/main/java/AdapterDesignPattern)
+    2.  ✅ Facade Design Pattern    &nbsp; &nbsp; &nbsp; [Notes](https://docs.google.com/document/d/1nZKcD0ocuLlA18kKKPf6cwAfK6GT7p24nAE-VVFuuDk/edit#heading=h.kk1966kbedef) &nbsp; [Code](https://github.com/Nizamuddin18/LLD/tree/master/src/main/java/AdapterDesignPattern)
+    3.  ✅ Decorator Design Pattern &nbsp;  [Notes](https://docs.google.com/document/d/1rIHt-zl_JyhkdI3VZuuD06-z81KkBRX3LsZNASxHnZU/edit?usp=sharing) &nbsp; [Code](https://github.com/Nizamuddin18/LLD/tree/master/src/main/java/DecoratorDesignPattern)
+    4.  ✅ Bridge Design Pattern    &nbsp; &nbsp; &nbsp; &nbsp;[Notes](https://docs.google.com/document/d/1nZKcD0ocuLlA18kKKPf6cwAfK6GT7p24nAE-VVFuuDk/edit#heading=h.kk1966kbedef) &nbsp; [Code](https://github.com/Nizamuddin18/LLD/tree/master/src/main/java/BridgeDesignPattern)
 
 The following resources are useful for learning low level design.
 
