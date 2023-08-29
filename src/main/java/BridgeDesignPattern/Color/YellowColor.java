@@ -1,4 +1,6 @@
-package BridgeDesignPattern;
+package BridgeDesignPattern.Color;
+
+import BridgeDesignPattern.Color.Color;
 
 public class YellowColor implements Color {
     @Override

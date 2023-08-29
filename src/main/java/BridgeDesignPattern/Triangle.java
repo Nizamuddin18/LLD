@@ -1,5 +1,7 @@
 package BridgeDesignPattern;
 
+import BridgeDesignPattern.Color.Color;
+
 public class Triangle extends Shape {
 
     Triangle(Color color) {

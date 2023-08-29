@@ -1,5 +1,7 @@
 package BridgeDesignPattern;
 
+import BridgeDesignPattern.Color.Color;
+
 public class Rectangle extends Shape {
 
     Rectangle(Color color) {

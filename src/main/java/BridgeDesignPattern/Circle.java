@@ -1,5 +1,7 @@
 package BridgeDesignPattern;
 
+import BridgeDesignPattern.Color.Color;
+
 public class Circle extends Shape {
     Circle(Color color) {
         super(color);

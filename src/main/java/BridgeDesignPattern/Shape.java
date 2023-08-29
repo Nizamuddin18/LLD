@@ -1,5 +1,7 @@
 package BridgeDesignPattern;
 
+import BridgeDesignPattern.Color.Color;
+
 public abstract class Shape {
     protected Color color;
 
